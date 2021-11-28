@@ -1,0 +1,6 @@
+framework module Pods_RNAliyunOSS_Example {
+  umbrella header "Pods-RNAliyunOSS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

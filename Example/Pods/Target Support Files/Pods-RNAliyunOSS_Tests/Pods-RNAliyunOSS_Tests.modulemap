@@ -1,0 +1,6 @@
+framework module Pods_RNAliyunOSS_Tests {
+  umbrella header "Pods-RNAliyunOSS_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module RNAliyunOSS {
+  umbrella header "RNAliyunOSS-umbrella.h"
+
+  export *
+  module * { export * }
+}

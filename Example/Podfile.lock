@@ -1,0 +1,16 @@
+PODS:
+  - RNAliyunOSS (0.1.0)
+
+DEPENDENCIES:
+  - RNAliyunOSS (from `../`)
+
+EXTERNAL SOURCES:
+  RNAliyunOSS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RNAliyunOSS: 4ed7c8b4cabb5646483fc325404e1aacae12273f
+
+PODFILE CHECKSUM: 934672c9dc8f05f35e97b46c6510de803f6df48c
+
+COCOAPODS: 1.10.1

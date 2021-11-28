@@ -21,17 +21,18 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/15885460/RNAliyunOSS'
+  s.homepage         = 'https://github.com/VinegarJar/RNAliyunOSS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '15885460' => '2966497308@qq.com' }
-  s.source           = { :git => 'https://github.com/15885460/RNAliyunOSS.git', :tag => s.version.to_s }
+  s.author           = { 'chenmeian' => '2966497308@qq.com' }
+  s.source           = { :git => 'https://github.com/VinegarJar/RNAliyunOSS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'RNAliyunOSS/Classes/**/*'
-  
+  #尝试引入第三方依赖库
+  s.dependency "React"
   # s.resource_bundles = {
   #   'RNAliyunOSS' => ['RNAliyunOSS/Assets/*.png']
   # }
