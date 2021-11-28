@@ -17,12 +17,12 @@ RNAliyunOSS is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'RNAliyunOSS'
+pod 'RNAliyunOSS',:git =>"https://github.com/VinegarJar/RNAliyunOSS.git"
 ```
 
 ## Author
 
-15885460, 2966497308@qq.com
+CHENMEIAN, 2966497308@qq.com
 
 ## License
 
